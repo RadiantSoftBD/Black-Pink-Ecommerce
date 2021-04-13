@@ -805,7 +805,7 @@ header + section {
   font-size: 24px;
   font-weight: 300;
   font-family: "Poppins", sans-serif;
-  background: #c4c2d3;
+  background: #eeb7ac;
   border-radius: 50%;
   color: #fff;
   margin-right: 30px;
@@ -827,7 +827,7 @@ header + section {
   display: inline-block;
   width: 70px;
   height: 1px;
-  background: #8781bd;
+  background: #de5499;
   bottom: 0;
 }
 
@@ -837,11 +837,11 @@ header + section {
 }
 
 .precess_item:hover .icon {
-  background: #8781bd;
+  background: #de5499;
 }
 
 .precess_item:hover h6 {
-  color: #8781bd;
+  color: #de5499;
 }
 
 .precess_item + .precess_item {
@@ -1153,7 +1153,7 @@ header + section {
 /*========= service_area  ===========*/
 /*========= clients_logo_area  ===========*/
 .clients_logo_area {
-  background: #8781bd;
+  background: #c93fd5;
 }
 
 .clients_logo_area_black {
@@ -1221,11 +1221,11 @@ header + section {
   position: relative;
   z-index: 1;
   padding-top: 100px;
-  background: url("../img/home-two/features_bg.jpg") no-repeat scroll center 0/cover;
+  background: url("https://images.unsplash.com/photo-1543164904-a81403d527a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80") no-repeat scroll center 0/cover;
 }
 
 .features_area .overlay_bg {
-  background: #8781bd;
+  background: #804d78;
   opacity: 0.4;
 }
 
@@ -1496,7 +1496,7 @@ header + section {
   width: 100%;
   height: 100%;
   z-index: 0;
-  background: #8781bd;
+  background: #de5499;
   opacity: 0;
   transition: opacity 0.2s linear;
 }
@@ -2087,9 +2087,9 @@ header + section {
 }
 
 .team_social_icon a:hover {
-  background: #8781bd;
+  background: #be2c9f;
   color: #fff;
-  border-color: #8781bd;
+  border-color: #804d78;
 }
 
 /*========= team_area css ============*/
