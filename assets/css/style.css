@@ -932,7 +932,7 @@ header + section {
 /*========== mockup_frame_area css ============*/
 /*========== theme_promo_area css ============*/
 .theme_promo_area {
-  background: #8781bd;
+  background: #de5499;
   text-align: center;
   padding: 115px 0px;
 }
@@ -999,8 +999,8 @@ header + section {
   width: 100px;
   height: 100px;
   text-align: center;
-  background: #8781bd;
-  border: 1px solid #8781bd;
+  background: #de5499;
+  border: 1px solid #de5499;
   font-size: 30px;
   color: #fff;
   line-height: 100px;
@@ -1022,7 +1022,7 @@ header + section {
 
 .service_promo_item:hover .round {
   background: transparent;
-  color: #8781bd;
+  color: #de5499;
 }
 
 /*========= sevice_promo_area  ===========*/
@@ -2863,7 +2863,7 @@ header + section {
 }
 
 .contact_inner .contact_form .form-group .form-control:focus {
-  border-color: #8781bd;
+  border-color: #de5499;
   background: #fff;
 }
 
@@ -2874,7 +2874,7 @@ header + section {
 
 .contact_inner .contact_form .form-group .theme_btn:hover {
   background: transparent;
-  border-color: #8781bd;
+  border-color: #de5499;
   color: #8781bd;
 }
 
@@ -2883,8 +2883,8 @@ header + section {
   height: 70px;
   text-align: center;
   line-height: 70px;
-  border: 1px solid #8781bd;
-  color: #8781bd;
+  border: 1px solid #de5499;
+  color: #de5499;
   border-radius: 50%;
   text-align: center;
   font-size: 24px;
