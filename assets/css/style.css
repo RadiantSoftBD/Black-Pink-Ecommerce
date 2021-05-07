@@ -1079,7 +1079,7 @@ header + section {
   line-height: 50px;
   font-size: 16px;
   color: #dbd9e7;
-  background: #8781bd;
+  background: #d06cc5;
   height: 50px;
   text-align: center;
   top: -1px;
@@ -1091,7 +1091,7 @@ header + section {
 
 .service_faq_info .card .card-header button .minus {
   display: inline-block;
-  background: #dbd9e7;
+  background: #e8c8dd;
   color: #fff;
 }
 
@@ -1104,7 +1104,7 @@ header + section {
 }
 
 .service_faq_info .card .card-body {
-  border-top: 1px solid #dbd9e7;
+  border-top: 1px solid #e8c8dd;
   padding: 20px 30px 25px;
 }
 
@@ -1135,7 +1135,7 @@ header + section {
 
 .service_tab_content {
   padding: 30px;
-  border: 1px solid #dbd9e7;
+  border: 1px solid #e8c8dd;
   background: #fff;
 }
 
@@ -1286,7 +1286,7 @@ header + section {
 }
 
 .offer_item:hover h6 {
-  color: #8781bd;
+  color: #a7629d;
 }
 
 /*========= offer_area  ===========*/
@@ -1460,7 +1460,7 @@ header + section {
 }
 
 .pr_slider_item .item_content h4:hover {
-  color: #8781bd;
+  color: #de5499;
 }
 
 .pr_slider_item .item_content p {
@@ -1525,7 +1525,7 @@ header + section {
 
 .img_hover .icon:hover {
   background: #fff;
-  color: #8781bd;
+  color: #de5499;
 }
 
 /*============ portfolio_area ==============*/
@@ -1668,7 +1668,7 @@ header + section {
 }
 
 .p_filter_info .portfolio_filter .work_portfolio_item.active {
-  color: #8781bd;
+  color: #de5499;
 }
 
 .portfolio_gallery .pr_slider_item {
